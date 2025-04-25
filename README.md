@@ -1,5 +1,5 @@
 # TrackBot 🚗  
-**An IoT-Powered Three-Wheeled Smart Car with Obstacle Detection, Environment Sensing, and NRF Communication**
+**An IoT-Powered Three-Wheeled Smart Car with Obstacle Detection, Environment Sensing, Dead Reckoning and NRF Communication**
 
 ---
 
